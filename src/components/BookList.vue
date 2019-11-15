@@ -1,11 +1,10 @@
 <template>
-  
-</template>
   <div>
     <h1>{{title}}</h1>
   </div>
-<script>
+</template>
 
+<script>
 export default {
   name: 'BookList',
   data: function () {
